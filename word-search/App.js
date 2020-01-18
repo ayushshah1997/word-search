@@ -2,6 +2,7 @@
 Created by Ayush Shah
 Word Search Puzzle
 Using React-Native with Expo on snack.expo.io
+Visit: https://snack.expo.io/@ayushs/word-search to run app
  */
 
 import React, { Component } from 'react';
